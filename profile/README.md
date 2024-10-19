@@ -1,1 +1,1 @@
-Hellp, I'm Dosu.
+Hello, I'm Dosu.
