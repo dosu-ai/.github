@@ -1,4 +1,3 @@
-
 <picture style="display: block; width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-dark.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-light.png?raw=true">
@@ -12,21 +11,21 @@
 
 </p>
 
-----
+---
 
-[Dosu](https://dosu.io/) is an AI-powered assistant that helps developers maintain code more efficiently than writing it.
+[Dosu](https://dosu.dev/)'s mission is to make maintaining code as easy as writing it.
 
-We empower engineers to focus on value-add work by **answering questions**, **triaging issues**, and **maintaining documentation**... 
+We empower engineers to focus on value-add work by automatically **answering questions**, **triaging issues**, and **maintaining documentation** for them.
 
-* 🤖&nbsp;&nbsp;[Explore Dosu App](https://app.dosu.dev/)
-* 📖&nbsp;&nbsp;[Try Dosu on your repositories](https://docs.dosu.dev/pages/onboarding-quickstart)
-* 🚀&nbsp;&nbsp;[Explore Dosu's features](https://docs.dosu.dev/pages/features-auto-labeling)
-* ✅&nbsp;&nbsp;[Read testimonials from our users](https://www.notion.so/dosu/Dosu-Rave-Reviews-851e0323d90149bcb9260fd536aa0fd3?pvs=4)
-* 📄&nbsp;&nbsp;[Check out our documentation](https://docs.dosu.dev/)
+- 🤖&nbsp;&nbsp;[Try Dosu on yourself](https://app.dosu.dev/)
+- 📖&nbsp;&nbsp;[Read the docs](https://docs.dosu.dev/pages/onboarding-quickstart)
+- 🚀&nbsp;&nbsp;[Explore features](https://docs.dosu.dev/pages/features-auto-labeling)
+- ✅&nbsp;&nbsp;[Read testimonials](https://go.dosu.dev/reviews)
+- ✅&nbsp;&nbsp;Have a question? Join [Discord](https://discord.gg/22fKbYm9Mp) or [Slack](https://join.slack.com/t/dosucommunity/shared_invite/zt-2l2r2csg5-9Wtkchf~WZbDdFZBDC7O0A)
 
-Visit [dosu.dev](https://dosu.dev/) to learn more and get early access!
+Visit [dosu.dev](https://dosu.dev/) to learn more and get started.
 
-----
+---
 
 Dosu is trusted by teams from **LangChain**, **Astronomer**, **LlamaIndex**, and more.
 
