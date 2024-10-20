@@ -20,8 +20,8 @@ We empower engineers to focus on value-add work by automatically **answering que
 - 🤖&nbsp;&nbsp;[Try Dosu on yourself](https://app.dosu.dev/)
 - 📖&nbsp;&nbsp;[Read the docs](https://docs.dosu.dev/pages/onboarding-quickstart)
 - 🚀&nbsp;&nbsp;[Explore features](https://docs.dosu.dev/pages/features-auto-labeling)
-- ✅&nbsp;&nbsp;[Read testimonials](https://go.dosu.dev/reviews)
-- ✅&nbsp;&nbsp;Have a question? Join [Discord](https://discord.gg/22fKbYm9Mp) or [Slack](https://join.slack.com/t/dosucommunity/shared_invite/zt-2l2r2csg5-9Wtkchf~WZbDdFZBDC7O0A)
+- 🤩&nbsp;&nbsp;[Read testimonials](https://go.dosu.dev/reviews)
+- 💬&nbsp;&nbsp;Have a question? Join [Discord](https://discord.gg/22fKbYm9Mp) or [Slack](https://join.slack.com/t/dosucommunity/shared_invite/zt-2l2r2csg5-9Wtkchf~WZbDdFZBDC7O0A)
 
 Visit [dosu.dev](https://dosu.dev/) to learn more and get started.
 
