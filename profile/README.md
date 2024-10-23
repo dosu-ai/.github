@@ -1,8 +1,10 @@
-<picture style="display: block; width: 100%;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-light.png?raw=true">
-  <img alt="Dosu logo">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-dark.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dosu-ai/assets/blob/main/icon-name-light.png?raw=true">
+    <img alt="Dosu logo" width="40%">
+  </picture>
+</p>
 
 <p align="center">
   
